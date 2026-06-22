@@ -1,0 +1,1 @@
+# haveri_stream_power_index
